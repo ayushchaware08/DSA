@@ -2,6 +2,6 @@
 Let's see How it Goes!
 
 1️⃣ Day 1 : 14/12/2023
-Today I learny about
-1. Pseudocode, Flowchat and Alogorithm
-2. Wrote First C++ program to print "Hello World".
+Today I learned about
+1. Pseudocode, Flowchart and Algorithm
+2. Wrote the First C++ program to print "Hello World".
