@@ -1,3 +1,4 @@
+<h1> DSA using C++</h1>
 ✅✅Here I am Documenting my whole Journey to learn DSA using C++ from Strach.
 Let's see How it Goes!
 
@@ -14,3 +15,7 @@ Today I Learnt
 3. Type casting
 4. Operators in C++
 5. Loops - If Loop
+
+3️⃣ Day 3 : 16/12/2023 ✅
+1. Loop - While loop
+3. Patterns
