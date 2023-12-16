@@ -19,7 +19,7 @@ int main()
     // int b;
     // cout<<"Enter the value of b: "<<endl;
     // cin>> b;
-    // cout<< " the valur od b is : " << b << endl;
+    // cout<< " the valur of b is : " << b << endl;
 
 
     
