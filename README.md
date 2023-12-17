@@ -19,3 +19,7 @@ Today I Learnt
 3️⃣ Day 3 : 16/12/2023 ✅
 1. Loop - While loop
 3. Patterns
+
+3️⃣ Day 4 : 17/12/2023 ✅
+ Solving 20+ questions to Solve Pattern
+
