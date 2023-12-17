@@ -2,16 +2,33 @@
 using namespace std;
 int main()
 {
-    int a,b;
-    cin>>a;
-    cin>>b;
-    if(a>b)
+int n;
+cout<<"Enter the number: " << endl;
+cin>>n;
+int i=1;
+while(i<=n)
+{
+    int j=1;
+    while(j<=n)
     {
-        cout<< a << " is greater than "<< b << endl;
+        cout<< n-j+1<<" ";
+        j=j+1;
     }
-    else{
-        cout<< a << " is less than " << b<<endl;
-    }
+    cout<<endl;
+    i=i+1;
+
+}
+
+    // int a,b;
+    // cin>>a;
+    // cin>>b;
+    // if(a>b)
+    // {
+    //     cout<< a << " is greater than "<< b << endl;
+    // }
+    // else{
+    //     cout<< a << " is less than " << b<<endl;
+    // }
 
     // int a = 2;
     // cout<< a << endl;

@@ -11,7 +11,7 @@ int main()
 	int n;
 	cout<<"Enter the Number" << endl;
 	cin>>n;
-	int count=1;
+	int count=1;   //
 	int i=1;
 	while(i<=n)
 	{

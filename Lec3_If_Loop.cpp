@@ -3,23 +3,23 @@ using namespace std;
 int main()
 {
 
-//     //------- If Loop -----------
-//     // Check whether a>b or a<b
-//     int a, b;
-//     cout<< "Enter the value of a " <<endl;
-//     cin >> a;
-//     cout<< "Enter the value of b" <<endl;
-//     cin >> b;
-//     // cin>> a >> b;
-//     cout << "THe Value of a is " << a << " and b is " << b << "." << endl;
-//     if (a > b)
-//     {
-//         cout << a << " is greater " << endl;
-//     }
-//     else
-//     {
-//         cout << b << "is Greater"<< endl;
-//     }
+    //------- If Loop -----------
+    // Check whether a>b or a<b
+    int a, b;
+    cout<< "Enter the value of a " <<endl;
+    cin >> a;
+    cout<< "Enter the value of b" <<endl;
+    cin >> b;
+    // cin>> a >> b;
+    cout << "THe Value of a is " << a << " and b is " << b << "." << endl;
+    if (a > b)
+    {
+        cout << a << " is greater " << endl;
+    }
+    else
+    {
+        cout << b << "is Greater"<< endl;
+    }
 // //------------------------------------------------------
 //        //Check a is positive or neagative 
 //        int a;
@@ -70,6 +70,7 @@ int main()
     //     cout<<a+1<<"else part";
     // }
 //--------------------------------------------------------
+    // program to check whether input is in upper case, Lowercase, Numeric
     char ch;
     cout<<"enter Ch : "<<endl;
     cin>>ch;

@@ -1,3 +1,4 @@
+// program to check whether input is in upper case, Lowercase, Numeric
 #include<iostream>
 using namespace std;
 int main()
