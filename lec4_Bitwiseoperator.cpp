@@ -22,9 +22,5 @@ int main()
 		// 0 0 0 0 0 0 0 1 0   ----(after Left shift)
 		int j = 5>>2;
 		cout<< j << endl;
-	 
-
-
-
 
 }
