@@ -20,6 +20,14 @@ Today I Learnt
 1. Loop - While loop
 3. Patterns
 
-3️⃣ Day 4 : 17/12/2023 ✅
+4️⃣ Day 4 : 17/12/2023 ✅
  Solving 20+ questions to Solve Pattern
 
+5️⃣ Day 5 : 18/12/2023 ✅
+1. BItwise Operator
+2. Loop - For Loop
+ 
+6️⃣ Day 6 : 19/12/2023 ✅
+1. Conversion from Binary to Decimal
+2. Conversion from Decimal to Binary
+3. Implementing BItwise Operator
