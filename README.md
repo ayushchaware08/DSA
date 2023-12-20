@@ -21,10 +21,10 @@ Today I Learnt
 3. Patterns
 
 4️⃣ Day 4 : 17/12/2023 ✅
- Solving 20+ questions to Solve Pattern
+1. Solving 20+ questions to Solve Pattern
 
 5️⃣ Day 5 : 18/12/2023 ✅
-1. BItwise Operator
+1. Bitwise Operator
 2. Loop - For Loop
  
 6️⃣ Day 6 : 19/12/2023 ✅
