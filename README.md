@@ -30,4 +30,12 @@ Today I Learnt
 6️⃣ Day 6 : 19/12/2023 ✅
 1. Conversion from Binary to Decimal
 2. Conversion from Decimal to Binary
-3. Implementing BItwise Operator
+3. Implementing Bitwise Operator
+
+7️⃣ Day 7 : 20/12/2024 ✅
+1. loop - forloop
+
+8️⃣ Day 8 : 21/12/2023 ✅
+1. Practice
+2. Practice
+3. and practice previous code.
