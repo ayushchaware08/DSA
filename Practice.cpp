@@ -3,7 +3,18 @@
 using namespace std;
 int main()
 {
-// convert dedc into binary
+    int i=5;
+    // cout<< i++ <<endl;
+    cout<< ++i <<endl;
+}
+
+/*
+#include <iostream>
+#include <math.h>
+using namespace std;
+int main()
+{
+// convert dec into binary
 int n;
 	cout << "Enter Decimal Number : ";
 	cin >> n;
@@ -18,6 +29,7 @@ int n;
 		i++;
 	}
 	cout << "Answer is " << ans << endl;
+    */
 
     /*
 	int n;
@@ -39,7 +51,7 @@ int n;
     */
 
 
-}
+
 
 /*
 #include <iostream>

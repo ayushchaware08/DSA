@@ -13,14 +13,34 @@ int main()
 		// 	Example :
 		// 	 0 0 0 0 0 0 1 0 1
 		// 0 0 0 0 0 0 1 0 1 0  ----(after Left shift)
-		int i = 5<<2;
-		cout<< i << endl;
+		int x = 5<<2;
+		cout<< x << endl;
 
 	//---------- RIGHT Shift --------
 		// 	Example :
 		// 0 0 0 0 0 0 1 0 1
+
 		// 0 0 0 0 0 0 0 1 0   ----(after Left shift)
-		int j = 5>>2;
-		cout<< j << endl;
+		int y = 5>>2;
+		cout<< y << endl;
+	
+	//----------Right / Left Shift -------------
+		// Bin no. are shifted by bits 
+
+		cout<< (5>>2) <<endl;
+		cout<< (6>>2) <<endl;
+		cout<< (5<<2) <<endl;
+		cout<< (6<<2) <<endl;
+
+	cout<<endl;
+	//------- Increment/ Decrement ------------
+		int i = 2;
+		cout << (i++) <<endl;
+		int j = 2;
+		cout << (++j) <<endl;
+		int k = 2;
+		cout << (k--) <<endl;
+		int l = 2;
+		cout << (--l) <<endl;
 
 }
