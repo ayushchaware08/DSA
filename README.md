@@ -38,4 +38,11 @@ Today I Learnt
 8️⃣ Day 8 : 21/12/2023 ✅
 1. Practice
 2. Practice
-3. and practice previous code.
+3. and practice the previous code.
+ 
+9️⃣ Day 9 : 22/12/2023 ✅
+1. Increment Decrement
+2. Loop - For Loop
+3. Program to Check Prime Number
+4. Program to print Fibonacci series
+
