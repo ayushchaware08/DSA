@@ -46,3 +46,7 @@ Today I Learnt
 3. Program to Check Prime Number
 4. Program to print Fibonacci series
 
+1️⃣0️⃣ Day 10 : 23/12/2023 ✅
+1. 4 Leet code Easy Problems
+
+1️⃣1️⃣ Day 11 : 24/12/2023 ✅
