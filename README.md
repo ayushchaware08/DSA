@@ -50,3 +50,8 @@ Today I Learnt
 1. 4 Leet code Easy Problems
 
 1️⃣1️⃣ Day 11 : 24/12/2023 ✅
+1. leetcode Questions : 1 Medium, 2 Easy.
+2. Bitwise Operator.
+3. Decimal to Binary conversion and vice versa.
+
+1️⃣2️⃣ Day 12 : 25/12/2023 ✅
