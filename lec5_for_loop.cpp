@@ -46,7 +46,7 @@ int main()
 			cout<< i << "  " ;
 			i++;
 		}
-
+		// output: 0  2  4
 		cout<<endl;
 		// ---- Sample 2 --------
 		for (int i = 0; i < 15; i+=2)
@@ -59,5 +59,6 @@ int main()
 			}
 			i++;
 		}
+		// output: 0 3 5 7 9 11 13
 		
 }
