@@ -72,5 +72,18 @@ int main()
 	}
 	// utput: The valur of n is 1;
 
-	
+	/*
+	// ------If switch is stuck in infinite While Loop
+	  while (true) 
+	 	{ 
+         // Your loop logic here
+         // Suppose you want to exit the program under a certain condition
+         if (condition) {
+             std::cout << "Exting the program." << std::endl;
+             exit(0);  // This will terminate the program immediately
+         }
+         // Continue with the loop if the condition is not met.
+    	}
+
+	*/
 }

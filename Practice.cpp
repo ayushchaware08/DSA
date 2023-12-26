@@ -1,12 +1,27 @@
-#include <iostream>
-#include <math.h>
+//check break in if statement
+#include<iostream>
 using namespace std;
 int main()
 {
-    int i=5;
-    // cout<< i++ <<endl;
-    cout<< ++i <<endl;
+    int i = 0;
+    while(i<=10)
+    {   
+        cout<< i <<endl;
+        // if (i==5)
+        // {continue;}
+        i++;
+    }
 }
+
+// #include <iostream>
+// #include <math.h>
+// using namespace std;
+// int main()
+// {
+//     int i=5;
+//     // cout<< i++ <<endl;
+//     cout<< ++i <<endl;
+// }
 
 /*
 #include <iostream>
@@ -50,9 +65,6 @@ int n;
 	}
     */
 
-
-
-
 /*
 #include <iostream>
 using namespace std;
@@ -85,11 +97,9 @@ while(i<=n)
     // }
     // else{
     //     cout<< a << " is less than " << b<<endl;
-    // }
-
+    // 
     // int a = 2;
     // cout<< a << endl;
-    
     // int b;
     // cout<<"Enter the value of b: "<<endl;
     // cin>> b;
