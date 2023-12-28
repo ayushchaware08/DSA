@@ -55,3 +55,5 @@ Today I Learnt
 3. Decimal to Binary conversion and vice versa.
 
 1️⃣2️⃣ Day 12 : 25/12/2023 ✅
+1️⃣3️⃣ Day 13 : 26/12/2023 ✅
+1️⃣4️⃣ Day 14: 27/12/2023 ✅
