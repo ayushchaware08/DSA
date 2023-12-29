@@ -66,13 +66,27 @@ bool isprime(int n)
 int fibb(int n)
 {
 	int a = 0, b = 1, ans = 0;
-	for (int i = 0; i <= n ; i++)
+	for (int i = 0; i <= n; i++)
 	{
 		ans = a + b;
 		a = b;
 		b = ans;
-		cout<< ans<< " ";
+		cout << ans << " ";
 	}
+	cout << endl;
+	return ans;
+}
+
+// (5) Guess the output (call by refrence)
+void update(int a)
+{
+	a = a / 2;
+}
+
+// (6)
+int update1(int a)
+{
+	int ans = a * a;
 	return ans;
 }
 
@@ -86,14 +100,32 @@ int main()
 	cout << "Enter the value of b : ";
 	cin >> b;
 
-	int ans = power(a, b); //(1)-------(Function Calling)
+	//(1)
+	int ans = power(a, b); //-------(Function Calling)
 	cout << a << " to power " << b << " is : " << ans << endl;
 
-	int ans1 = iseven(a); //(2)
+	//(2)
+	int ans1 = iseven(a);
 
-	int ans2 = isprime(a); //(3)
+	//(3)
+	int ans2 = isprime(a);
 
-	int ans3 = fibb(a); //(4)
+	//(4)
+	int ans3 = fibb(a);
+
+	//(5)
+	int c = 10;
+	update(c);
+	cout << c << endl; 
+
+	//(6)
+	int d = 14;
+	d = update1(d);
+	cout << d << endl;
 
 	return 0;
 }
+
+
+// (5)  -> 10
+// (6)  -> 196
