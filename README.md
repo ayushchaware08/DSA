@@ -55,3 +55,13 @@ Today I Learnt
 3. Decimal to Binary conversion and vice versa.
 
 1️⃣2️⃣ Day 12 : 25/12/2023 ✅
+1. Switch case
+2. Break ; Continue;
+3. Functions
+4. Creating various Functions.
+   
+1️⃣3️⃣ Day 13 : 26/12/2023 ✅
+1. Leetcode problems
+   
+1️⃣4️⃣ Day 14: 29/12/2023 ✅
+
