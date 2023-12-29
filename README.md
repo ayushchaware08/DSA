@@ -60,7 +60,7 @@ Today I Learnt
 3. Functions
 4. Creating various Functions.
    
-1️⃣3️⃣ Day 13 : 28/12/2023 ✅
+1️⃣3️⃣ Day 13 : 26/12/2023 ✅
 1. Leetcode problems
    
 1️⃣4️⃣ Day 14: 29/12/2023 ✅
