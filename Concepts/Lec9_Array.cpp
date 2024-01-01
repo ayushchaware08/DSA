@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+// if array operations is performed in an function then org Array also get updated 
+// As array shares the address of the element. if there is variable operation then it creates a copy of a variable without ffecting orignal one.
+
 // Function to print Array
 void printarray(int arr[], int size)
 {
@@ -52,7 +55,7 @@ int main()
 	// array having Character element
 	int size = 5;
 	char ch1[5] = { 'a', 'b', 'c', 'd', 'e'};
-	printarray(ch1,size); // printarray(int, int)
+	// printarray(ch1,size); // printarray(int, int)
 
 
 
