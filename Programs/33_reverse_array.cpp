@@ -1,9 +1,23 @@
+// Reverse an array
+
 #include <iostream>
 using namespace std;
+
+// Print an array
+void printarray(int arr[], int size)
+{
+	for (int i = 0; i < size; i++)
+	{
+		cout << arr[i] << " ";
+	}
+	cout << endl
+		 << "Printing Done" << endl;
+}
 
 // Reverze an Array
 void reverse(int arr[], int n)
 {
+	cout << "Reversing an array..." << endl;
 	int start = 0;
 	int end = n - 1;
 
@@ -13,17 +27,7 @@ void reverse(int arr[], int n)
 		start++;
 		end--;
 	}
-}
-
-// Print an array
-void printarray(int arr[], int size)
-{
-	cout << "Printing an Array..." << endl;
-	for (int i = 0; i < size; i++)
-	{
-		cout << arr[i] << " ";
-	}
-	cout << "Printing Done" << endl;
+	printarray(arr,n);
 }
 
 int main()
@@ -32,6 +36,7 @@ int main()
 
 	printarray(arr, 6);
 	reverse(arr, 6);
+	printarray(arr,6); // array elements get permanatly updated.
 
 	return 0;
 }

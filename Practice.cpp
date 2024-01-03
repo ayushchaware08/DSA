@@ -1,17 +1,56 @@
-//check break in if statement
-#include<iostream>
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
 using namespace std;
-int main()
+
+void reverse(int arr[], int n)
 {
-    int i = 0;
-    while(i<=10)
-    {   
-        cout<< i <<endl;
-        // if (i==5)
-        // {continue;}
-        i++;
+    int start = 0;
+    int end = n-1;
+    while (start <= end)
+    {
+        swap(arr[start], arr[end]);
+        start++;
+        end--;
     }
 }
+
+int main()
+{
+    int n; 
+    cin>>n;
+    int arr[n];
+    for (int i = 0; i < n; i++)
+    {
+        cin >> arr[i];
+    }
+    reverse(arr, n);
+    for (int i = 0; i < n; i++)
+    {
+        cout << arr[i];
+    }
+
+    return 0;
+}
+
+
+
+//check break in if statement
+// #include<iostream>
+// using namespace std;
+// int main()
+// {
+//     int i = 0;
+//     while(i<=10)
+//     {   
+//         cout<< i <<endl;
+//         // if (i==5)
+//         // {continue;}
+//         i++;
+//     }
+// }
 
 // #include <iostream>
 // #include <math.h>
