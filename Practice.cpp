@@ -1,39 +1,81 @@
-#include <cmath>
-#include <cstdio>
-#include <vector>
-#include <iostream>
-#include <algorithm>
+// Sorting Algorithm - Selection Sort
+#include<iostream>
 using namespace std;
 
-void reverse(int arr[], int n)
+// Print an array
+void printarray(int arr[], int size)
 {
-    int start = 0;
-    int end = n-1;
-    while (start <= end)
-    {
-        swap(arr[start], arr[end]);
-        start++;
-        end--;
-    }
+	for (int i = 0; i < size; i++)
+	{
+		cout << arr[i] << " ";
+	}
+	cout << endl
+		 << "Printing Done" << endl;
+}
+
+// Selection Sort Function
+void selectionsort(int arr[], int n)
+{
+	for(int i = 0; i<= n-1; i++)
+	{
+		int minindex = i;
+		for(int j = i+1; j<n; j++)
+		{
+			if(arr[j]<arr[minindex])
+			{
+				minindex = j;
+			}
+		}
+		swap(arr[minindex],arr[i]);
+	}
+	printarray(arr,n);
 }
 
 int main()
 {
-    int n; 
-    cin>>n;
-    int arr[n];
-    for (int i = 0; i < n; i++)
-    {
-        cin >> arr[i];
-    }
-    reverse(arr, n);
-    for (int i = 0; i < n; i++)
-    {
-        cout << arr[i];
-    }
+	int arr[10] = {74, 54, 91, 21, 15, 48, 91, 34, 51, 64};
+	printarray(arr,10);
+	cout<< "Sorted Array : ";
+	selectionsort(arr, 10);
 
-    return 0;
 }
+
+// #include <cmath>
+// #include <cstdio>
+// #include <vector>
+// #include <iostream>
+// #include <algorithm>
+// using namespace std;
+
+// void reverse(int arr[], int n)
+// {
+//     int start = 0;
+//     int end = n-1;
+//     while (start <= end)
+//     {
+//         swap(arr[start], arr[end]);
+//         start++;
+//         end--;
+//     }
+// }
+
+// int main()
+// {
+//     int n; 
+//     cin>>n;
+//     int arr[n];
+//     for (int i = 0; i < n; i++)
+//     {
+//         cin >> arr[i];
+//     }
+//     reverse(arr, n);
+//     for (int i = 0; i < n; i++)
+//     {
+//         cout << arr[i];
+//     }
+
+//     return 0;
+// }
 
 
 
