@@ -71,7 +71,7 @@ int fibb(int n)
 		ans = a + b;
 		a = b;
 		b = ans;
-		cout << ans << " ";
+		cout << ans << endl;
 	}
 	cout << endl;
 	return ans;

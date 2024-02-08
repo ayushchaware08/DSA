@@ -70,7 +70,7 @@ int main()
 	default:
 		cout << "Default case" << endl;
 	}
-	// utput: The valur of n is 1;
+	// output: The valur of n is 1;
 
 	/*
 	// ------If switch is stuck in infinite While Loop

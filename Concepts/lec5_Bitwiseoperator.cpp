@@ -35,12 +35,15 @@ int main()
 	cout<<endl;
 	//------- Increment/ Decrement ------------
 		int i = 2;
-		cout << (i++) <<endl;
+		cout <<"i++ = "<< (i++) << endl << i+(i++) <<endl;
+
 		int j = 2;
-		cout << (++j) <<endl;
+		cout <<"++j = "<< (++j) <<endl << j+(++j) <<endl;
+
 		int k = 2;
-		cout << (k--) <<endl;
+		cout <<"k-- = "<< (k--) <<endl << k+(k--) <<endl;
+
 		int l = 2;
-		cout << (--l) <<endl;
+		cout << "--l = "<<(--l) <<endl << l+(--l) <<endl;
 
 }

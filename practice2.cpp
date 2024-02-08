@@ -81,12 +81,14 @@
 using namespace std;
 int main()
 {
-	int n;
-	cout<<"Enter the number you want to Print number till : "<< endl;
-	cin >> n;
-	for(int i = 1; i<=n; i++ )
-	{
-		cout<< i<<endl;
-	}
+	int n = 4;
+	int nn = ~n;
+	cout<<nn<<endl;
+	// cout<<"Enter the number you want to Print number till : "<< endl;
+	// cin >> n;
+	// for(int i = 1; i<=n; i++ )
+	// {
+	// 	cout<< i<<endl;
+	// }
 
 }

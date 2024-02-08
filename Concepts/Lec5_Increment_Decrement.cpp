@@ -23,14 +23,19 @@ int main()
 		// 	cout<< ++b << "inside Else";
 
 		//---------- Sample 2 -------------
-		// int a = 1, b = 2;
-		// if ( a-- > 0 && ++b >2)
-		// 	cout<<"Insise If" << endl;
-		// else
-		// 	cout<< " inside else"<<endl;
-		// cout<< a << " " << b << endl;
+		int a = 1, b = 2;
+		if ( a-- > 0 && ++b >2)
+			cout<<"Insise If" << endl;
+		else
+			cout<< " inside else"<<endl;
+		cout<< a << " " << b << endl;
 
 		//--------- Sample 3 -------------
 		int num = 3;
 		cout<< (25 * (++num));
 }
+
+// Output 
+// S1 : insideif
+// S2 : 0 3
+// S3 : 100

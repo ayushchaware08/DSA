@@ -75,6 +75,5 @@ int main()
     unsigned int a3 = -112;
     cout << a3 << endl; // gives larger number as output
 
-    // ------------ OPERATOR -------------------------
 
 }
