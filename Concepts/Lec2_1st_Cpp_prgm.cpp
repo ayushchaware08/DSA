@@ -1,5 +1,6 @@
-//Iostream  is library where all the functions are defined
-#include <iostream>
+// # include : that tells the compiler to include the contents of the <iostream>
+// Iostream : Standard Library and provides functionality for input and output operations
+#include <iostream> //PReprocessor Directive
 //C++ me The library is defined in a namespace called std
 // here we allready mentioned that we are using Std library in whole code   [see Lec2_namespace.cpp ]
 using namespace std;
