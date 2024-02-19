@@ -71,10 +71,11 @@ Today I Learnt
 04/01 Swap alternate
 05/01 Selection sort
 
+
+### Leetcode Problems
 | Problem no.  | Name | Link |
 | ------------- | ------------- | ----------|
 | 07 | Content Cell  | link |
-| Content Cell  | Content Cell  |
 
 
    
