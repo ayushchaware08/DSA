@@ -62,5 +62,20 @@ Today I Learnt
    
 1️⃣3️⃣ Day 13 : 26/12/2023 ✅
 1. Leetcode problems
+
+29/12 Practice
+31/12 Array
+31/12 Linear Search
+02/01 Binary search
+02/01 Reverse array
+04/01 Swap alternate
+05/01 Selection sort
+
+| Problem no.  | Name | Link |
+| ------------- | ------------- | ----------|
+| 07 | Content Cell  | link |
+| Content Cell  | Content Cell  |
+
+
    
 

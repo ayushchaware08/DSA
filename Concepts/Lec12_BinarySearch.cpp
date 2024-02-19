@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int binarysrch(int arr[], int size, int key)
+int binarysearch(int arr[], int size, int key)
 {
 	int start = 0;
 	int end = size - 1;
@@ -40,10 +40,10 @@ int main()
 	cout<< "Enter the Key element : ";
 	cin>>key;
 
-	int index1 = binarysrch(evenarray, 6, key);
+	int index1 = binarysearch(evenarray, 6, key);
 	cout<< "Element is in "<< index1 << " index position." <<endl;
 
-	int index2 = binarysrch(oddarray, 6, key);
+	int index2 = binarysearch(oddarray, 5, key);
 	cout<< "Element is in "<< index2 << " index position." <<endl;
 
 	return 0;
