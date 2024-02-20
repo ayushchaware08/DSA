@@ -1,5 +1,5 @@
 <h1> DSA using C++</h1>
-✅✅Here I am Documenting my whole Journey to learn DSA using C++ from Strach.
+✅✅Here I am Documenting my whole Journey to learn DSA using C++ from Strach. I am following Love Babbar YouTube Playlist to learn DSA using C++.
 Let's see How it Goes!
 
 1️⃣ Day 1 : 14/12/2023 ✅
@@ -74,16 +74,29 @@ Today I Learnt
 Lec 10 : Swap Alternate
 
 
-### Leetcode Problems
-| Platform  | Question | Difficulty | Link | 
-| ------------- | ------------- | ----------| ----------|
-| Leetcode | 231. Power of Two  | Easy | [link](https://leetcode.com/problems/power-of-two/) |
-| Leetcode | 1009. Complement of Base 10 Integer  | Easy | [link](https://leetcode.com/problems/complement-of-base-10-integer/)|
-| Leetcode | 7. Reverse Number  | Medium | [link](https://leetcode.com/problems/reverse-integer/) |
-| Leetcode | 9. Palindrome Number  | Easy | [link](https://leetcode.com/problems/palindrome-number/) |
-| Leetcode | 191. Number of 1 Bits | Easy | [link](https://leetcode.com/problems/number-of-1-bits/) |
-| Leetcode | 1280. Substract the Product and Sum Digit of Integer  | Easy | [link](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) |
+### Question Praactice
+|Sr No.| Platform  | Question | Difficulty | Link | Status |
+| ------------- | ------------- | ----------| ----------| -------|
+|1. |Leetcode | 231. Power of Two  | Easy | [link](https://leetcode.com/problems/power-of-two/) |Done|
+|2. |Leetcode | 1009. Complement of Base 10 Integer  | Easy | [link](https://leetcode.com/problems/complement-of-base-10-integer/)|Done|
+|3. |Leetcode | 7. Reverse Number  | Medium | Done|[link](https://leetcode.com/problems/reverse-integer/) |Done|
+|4. |Leetcode | 9. Palindrome Number  | Easy | [link](https://leetcode.com/problems/palindrome-number/) |Done|
+|5. |Leetcode | 191. Number of 1 Bits | Easy | [link](https://leetcode.com/problems/number-of-1-bits/) |Done|
+|6. |Leetcode | 1280. Substract the Product and Sum Digit of Integer  | Easy | [link](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) |Done|
+|7. |Code Studio | Find Unique element | [link](https://bit.ly/3y01Zdu)| Done|
+|8. | Leetcode | 1207. Unique Number of Occurances | [Link]() | Pending |
+|9. |Duplicates in Array|[link](https://bit.ly/3dm6bdZ) | Done |
+|10. |Leetcode| 442. Find All Duplicates in an Array | 	[Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | Pending|
+|11. | Code Studio |Array Intersection | [Link](https://bit.ly/3Il0c7n )| Done |
+|11. | Leetcode |Description |[Link]()| Status |
 
 
-   
+- Pair Sum [https://bit.ly/3EwlU6e ]
+- Triplet sum [https://bit.ly/3GbgVs3]
+- Sort 0 1 2 [https://bit.ly/3DfQW0s]
+Howework question:
+
+Ques2:  
+Ques3: https://bit.ly/3GbgVs3 
+Ques4: https://bit.ly/3DfQW0s 
 
