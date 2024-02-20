@@ -71,11 +71,18 @@ Today I Learnt
 04/01 Swap alternate
 05/01 Selection sort
 
+Lec 10 : Swap Alternate
+
 
 ### Leetcode Problems
-| Problem no.  | Name | Link |
-| ------------- | ------------- | ----------|
-| 07 | Content Cell  | link |
+| Platform  | Question | Difficulty | Link | 
+| ------------- | ------------- | ----------| ----------|
+| Leetcode | 231. Power of Two  | Easy | [link](https://leetcode.com/problems/power-of-two/) |
+| Leetcode | 1009. Complement of Base 10 Integer  | Easy | [link](https://leetcode.com/problems/complement-of-base-10-integer/)|
+| Leetcode | 7. Reverse Number  | Medium | [link](https://leetcode.com/problems/reverse-integer/) |
+| Leetcode | 9. Palindrome Number  | Easy | [link](https://leetcode.com/problems/palindrome-number/) |
+| Leetcode | 191. Number of 1 Bits | Easy | [link](https://leetcode.com/problems/number-of-1-bits/) |
+| Leetcode | 1280. Substract the Product and Sum Digit of Integer  | Easy | [link](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) |
 
 
    
