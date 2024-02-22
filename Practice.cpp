@@ -12,7 +12,7 @@ int unique(int arr[], int size)
 }
 int main()
 {
-	int arr[5] = {1,2,3,4,3};
+int arr[5] = {1,2,3,4,3};
 	int size = 5;
 	// unique(arr, size);
 	int ans = 0;

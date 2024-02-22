@@ -70,7 +70,6 @@ Today I Learnt
 02/01 Reverse array
 04/01 Swap alternate
 05/01 Selection sort
-
 Lec 10 : Swap Alternate
 
 
@@ -84,19 +83,19 @@ Lec 10 : Swap Alternate
 |5. |Leetcode | 191. Number of 1 Bits | Easy | [link](https://leetcode.com/problems/number-of-1-bits/) |Done|
 |6. |Leetcode | 1280. Substract the Product and Sum Digit of Integer  | Easy | [link](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) |Done|
 |7. |Code Studio | Find Unique element | Easy | [link](https://bit.ly/3y01Zdu)| Done|
-|8. |Leetcode | 1207. Unique Number of Occurances | -- | [Link]() | Pending |
+|8. |Leetcode | 1207. Unique Number of Occurances | -- | [Link](https://leetcode.com/problems/unique-number-of-occurrences/) | Pending |
 |9. |-- |Duplicates in Array|--|[link](https://bit.ly/3dm6bdZ) | Done |
-|10. |Leetcode| 442. Find All Duplicates in an Array |--| 	[Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | Pending|
-|11. |Code Studio |Array Intersection | __ |[Link] (https://bit.ly/3Il0c7n )| Done |
+|10. |Leetcode| 442. Find All Duplicates in an Array |Medium |[Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | Pending|
+|11. |Code Studio |Array Intersection | Easy |[Link](https://bit.ly/3Il0c7n)| Done |
 |11. |Leetcode |Description |Easy|[Link]()| Status |
 
 
 - Pair Sum [https://bit.ly/3EwlU6e ]
 - Triplet sum [https://bit.ly/3GbgVs3]
 - Sort 0 1 2 [https://bit.ly/3DfQW0s]
-Howework question:
 
-Ques2:  
-Ques3: https://bit.ly/3GbgVs3 
-Ques4: https://bit.ly/3DfQW0s 
+Howework question:
+- Ques2:  
+- Ques3: https://bit.ly/3GbgVs3 
+- Ques4: https://bit.ly/3DfQW0s 
 
