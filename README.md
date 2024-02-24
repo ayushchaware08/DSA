@@ -98,7 +98,5 @@ Lec 10 : Swap Alternate
 - Ques3: https://bit.ly/3GbgVs3 
 - Ques4: https://bit.ly/3DfQW0s 
 
-Git Github Crash Cource
-We are just testing local and remote repo
-another chage
+We are re_testing this
 
