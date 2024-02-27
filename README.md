@@ -86,7 +86,7 @@ Lec 10 : Swap Alternate
 |8. |Leetcode | 1207. Unique Number of Occurances | -- | [Link](https://leetcode.com/problems/unique-number-of-occurrences/) | Pending |
 |9. |Code Studio |**Duplicates in Array|Easy**|[link](https://bit.ly/3dm6bdZ) | Done |
 |10. |Leetcode| 442. Find All Duplicates in an Array |Medium |[Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | Pending|
-|11. |Code Studio |Array Intersection | Easy |[Link](https://bit.ly/3Il0c7n)| Done |
+|11. |Code Studio |Array Intersection | Easy |[Link](https://bit.ly/3Il0c7n)| Done |g
 |11. |Leetcode |Description |Easy|[Link]()| Status |
 
 
@@ -97,5 +97,7 @@ Lec 10 : Swap Alternate
 - Ques3: https://bit.ly/3GbgVs3 
 - Ques4: https://bit.ly/3DfQW0s 
 
-
+Git Github Crash Cource
+We are just testing local and remote repo
+another chage
 
