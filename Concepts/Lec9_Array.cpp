@@ -57,5 +57,18 @@ int main()
 	char ch1[5] = { 'a', 'b', 'c', 'd', 'e'};
 	// printarray(ch1,size); // printarray(int, int)
 
+// ---------------------------------------------------
+	// print the sum of each array
+	int a[4] = {1,2,4,5};
+	int size1 = 4;
+	int ans = 0;
+	for(int i=0; i<size1;i++){
+		ans += a[i];
+	}
+	cout<<ans;
+
+	// check wether the number of power of 2  norot
+	int num = 12;
+	// set bit concept 0001  0010 0100 1000 i.e 1 
 	return 0;
 }

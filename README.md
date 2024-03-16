@@ -86,11 +86,15 @@ Lec 10 : Swap Alternate
 |8. |Leetcode | 1207. Unique Number of Occurances | -- | [Link](https://leetcode.com/problems/unique-number-of-occurrences/) | Pending |
 |9. |Code Studio |**Duplicates in Array|Easy**|[link](https://bit.ly/3dm6bdZ) | Done |
 |10. |Leetcode| 442. Find All Duplicates in an Array |Medium |[Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | Pending|
-|11. |Code Studio |Array Intersection | Easy |[Link](https://bit.ly/3Il0c7n)| Done |g
-|11. |Leetcode |Description |Easy|[Link]()| Status |
+|11.** |Code Studio |Sorted Array Intesection | Easy |[Link](https://bit.ly/3Il0c7n)| Doubt |
+|12. |Code Studio |Pair Sum|Easy|[Link](https://bit.ly/3EwlU6e )| Pending |
+|16.** |CodeStudio |First and Last POsition of Sorted Array |Easy|[Link](https://www.codingninjas.com/studio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549)| Done |
+|17. |Leetcode |852. Peak Index in a Mountain Array |Medium|[Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)| Done |
+|18. |Leetcode |724. Find Pivot Indexion |Easy|[Link](https://leetcode.com/problems/find-pivot-index/description/)| Pending  |
+|13. |Leetcode |Description |Easy|[Link]()| Status |
 
 
-- Pair Sum [https://bit.ly/3EwlU6e ]
+- Pair Sum []
 - Triplet sum [https://bit.ly/3GbgVs3]
 - Sort 0 1 2 [https://bit.ly/3DfQW0s]
 
