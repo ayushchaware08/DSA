@@ -1,3 +1,2 @@
 
-		ans = ans ^ arr[i];
-	}
+int main(){
