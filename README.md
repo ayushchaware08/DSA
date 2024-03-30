@@ -26,7 +26,7 @@ Today I Learnt
 5️⃣ Day 5 : 18/12/2023 ✅
 1. Bitwise Operator
 2. Loop - For Loop
- 
+
 6️⃣ Day 6 : 19/12/2023 ✅
 1. Conversion from Binary to Decimal
 2. Conversion from Decimal to Binary
@@ -92,14 +92,16 @@ Lec 10 : Swap Alternate
 |17. |Leetcode |852. Peak Index in a Mountain Array |Medium|[Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)| Done | |
 |18. |Leetcode |724. Find Pivot Indexion |Easy|[Link](https://leetcode.com/problems/find-pivot-index/description/)| Pending  | |
 |19. |Leetcode |Find pivot element first and |Easy|[Link](https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/1459909/find-pivot-element-first-and-apply-binary-search-on-left-and-right-subarrays-0logn-approach/) [Link](https://www.codingninjas.com/studio/problems/search-in-rotated-sorted-array_1082554)| Done |  |
-|20. |Leetcode |69. Sqrt() |Easy|[Link](https://leetcode.com/problems/sqrtx/description/)| Pending | 
+|20. |Leetcode |69. Sqrt() |Easy|[Link](https://leetcode.com/problems/sqrtx/description/)| Done | 
+|21. |Leetcode |Description |Easy|[Link]()| Status | 
 
 
 
 
 <!--
- |13. |Leetcode |Description |Easy|[Link]()| Status | 
+|13. |Leetcode |Description |Easy|[Link]()| Status | 
 -->
+
 <!-- 
 Q13 Triplet sum [https://bit.ly/3GbgVs3] Fipkart Meta Cisco...
 Q14 3sum https://bit.ly/3GbgVs3 
