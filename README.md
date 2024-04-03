@@ -2,7 +2,7 @@
 ✅✅Here I am Documenting my whole Journey to learn DSA using C++ from Strach. I am following Love Babbar YouTube Playlist to learn DSA using C++.
 Let's see How it Goes!
 
-1️⃣ Day 1 : 14/12/2023 ✅
+<!-- 1️⃣ Day 1 : 14/12/2023 ✅
 Today I learned about
 1. Pseudocode, Flowchart and Algorithm
 2. Wrote the First C++ program to print "Hello World".
@@ -21,7 +21,7 @@ Today I Learnt
 3. Patterns
 
 4️⃣ Day 4 : 17/12/2023 ✅
-1. Solving 20+ questions to Solve Pattern
+1. Solving 20+ questions on Pattern Solving
 
 5️⃣ Day 5 : 18/12/2023 ✅
 1. Bitwise Operator
@@ -61,16 +61,57 @@ Today I Learnt
 4. Creating various Functions.
    
 1️⃣3️⃣ Day 13 : 26/12/2023 ✅
-1. Leetcode problems
+1. Leetcode problems 
 
-29/12 Practice
 31/12 Array
-31/12 Linear Search
+31/12 Linear Search 
 02/01 Binary search
 02/01 Reverse array
 04/01 Swap alternate
 05/01 Selection sort
-Lec 10 : Swap Alternate
+Lec 10 : Swap Alternate-->
+
+
+
+- Pseudocode, Flowchart and Algorithm
+- Wrote the First C++ program to print "Hello World".
+- Namespaces
+- Data Type
+- How data is stored?
+- Type casting
+- Operators in C++L
+- Loops - If Loop
+- Loop - While loop
+- Patterns
+- Solving 20+ questions on Pattern Solving
+- Bitwise Operator
+- Loop - For Loop
+- Conversion from Binary to Decimal
+- Conversion from Decimal to Binary
+- Implementing Bitwise Operator
+- loop - forloop
+- Practice
+- Practice
+- and practice the previous code.
+- Increment Decrement
+- Loop - For Loop
+- Program to Check Prime Number
+- Program to print Fibonacci series
+- 4 Leet code Easy Problems
+- leetcode Questions : 1 Medium, 2 Easy.
+- Bit Manipulation.
+- Decimal to Binary conversion and vice versa.
+- Switch case
+- Break ; Continue; statements
+- Functions
+- Creating various Functions.
+- Leetcode problems
+## Arrays
+### Searching
+- Linear Search
+- Binary Search
+### Sorting
+- Selection Sort
 
 
 ### Question Praactice
@@ -93,24 +134,21 @@ Lec 10 : Swap Alternate
 |18. |Leetcode |724. Find Pivot Indexion |Easy|[Link](https://leetcode.com/problems/find-pivot-index/description/)| Pending  | |
 |19. |Leetcode |Find pivot element first and |Easy|[Link](https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/1459909/find-pivot-element-first-and-apply-binary-search-on-left-and-right-subarrays-0logn-approach/) [Link](https://www.codingninjas.com/studio/problems/search-in-rotated-sorted-array_1082554)| Done |  |
 |20. |Leetcode |69. Sqrt() |Easy|[Link](https://leetcode.com/problems/sqrtx/description/)| Done | 
-|21. |Code360 |Book Allocation Problem |Easy|[Link](https://www.naukri.com/code360/problems/allocate-books_1090540)| Pending | 
-- :  
+|21. |Code360 |Book Allocation Problem |Easy|[Link](https://www.naukri.com/code360/problems/allocate-books_1090540)| Done | 
+|27. |platform |Description |dificulty|[Link]()| Status | 
 
-<!-- 
-lecture 15
-Questions Solved:
-Homework Questions: 
-- EKO SPOJ: https://www.spoj.com/problems/EKO/  
-- PRATA SPOJ: https://bit.ly/3ExHXt5  
-- Aggressive Cows: https://bit.ly/3dkuQ2B 
-- Painter’s Partition Problem: https://bit.ly/31v3Jiy 
-- EKO SPOJ: https://www.spoj.com/problems/EKO/ 
-- PRATA SPOJ: https://bit.ly/3ExHXt5  -->
 
+<!-- Lecture 15
+|22. |platform |EKO SPOJ |dificulty|[Link](https://www.spoj.com/problems/EKO/)| Pending | 
+|23. |platform |PRATA SPOJ |dificulty|[Link](https://bit.ly/3ExHXt5)| Status | 
+|24. |platform |Aggressive Cows |dificulty|[Link](https://bit.ly/3dkuQ2B)| Status | 
+|25. |platform |Painter’s Partition Problem |dificulty|[Link](https://bit.ly/31v3Jiy)| Status | 
+|26. |platform |Description |dificulty|[Link]()| Status |  -->
 
 
 
 <!--
+|13. |platform |Description |dificulty|[Link]()| Status | 
 |13. |platform |Description |dificulty|[Link]()| Status | 
 -->
 
