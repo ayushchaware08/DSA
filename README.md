@@ -82,24 +82,36 @@ Lec 10 : Swap Alternate
 |4. |Leetcode | 9. Palindrome Number  | Easy | [link](https://leetcode.com/problems/palindrome-number/) |Done| |
 |5. |Leetcode | 191. Number of 1 Bits | Easy | [link](https://leetcode.com/problems/number-of-1-bits/) |Done| |
 |6. |Leetcode | 1280. Substract the Product and Sum Digit of Integer  | Easy | [link](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) |Done| |
-|7. |Code Studio | Find Unique element | Easy | [link](https://bit.ly/3y01Zdu)| Done| |
+|7. |Code360 | Find Unique element | Easy | [link](https://bit.ly/3y01Zdu)| Done| |
 |8. |Leetcode | 1207. Unique Number of Occurances | -- | [Link](https://leetcode.com/problems/unique-number-of-occurrences/) | Pending | Google Apple|
-|9. |Code Studio |Duplicates in Array|Easy|[link](https://bit.ly/3dm6bdZ) | Done | |
+|9. |Code360 |Duplicates in Array|Easy|[link](https://bit.ly/3dm6bdZ) | Done | |
 |10. |Leetcode| 442. Find All Duplicates in an Array |Medium |[Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | Pending| |
-|11.** |Code Studio |Sorted Array Intesection | Easy |[Link](https://bit.ly/3Il0c7n)| Doubt | |
-|12. |Code Studio |Pair Sum|Easy|[Link](https://bit.ly/3EwlU6e )| Pending | |
-|16.** |CodeStudio |First and Last POsition of Sorted Array |Easy|[Link](https://www.codingninjas.com/studio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549)| Done |Amazon Microsoft Gs Ad |
+|11.** |Code360 |Sorted Array Intesection | Easy |[Link](https://bit.ly/3Il0c7n)| Doubt | |
+|12. |Code360 |Pair Sum|Easy|[Link](https://bit.ly/3EwlU6e )| Pending | |
+|16.** |Code360 |First and Last POsition of Sorted Array |Easy|[Link](https://www.codingninjas.com/studio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549)| Done |Amazon Microsoft Gs Ad |
 |17. |Leetcode |852. Peak Index in a Mountain Array |Medium|[Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)| Done | |
 |18. |Leetcode |724. Find Pivot Indexion |Easy|[Link](https://leetcode.com/problems/find-pivot-index/description/)| Pending  | |
 |19. |Leetcode |Find pivot element first and |Easy|[Link](https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/1459909/find-pivot-element-first-and-apply-binary-search-on-left-and-right-subarrays-0logn-approach/) [Link](https://www.codingninjas.com/studio/problems/search-in-rotated-sorted-array_1082554)| Done |  |
 |20. |Leetcode |69. Sqrt() |Easy|[Link](https://leetcode.com/problems/sqrtx/description/)| Done | 
-|21. |Leetcode |Description |Easy|[Link]()| Status | 
+|21. |Code360 |Book Allocation Problem |Easy|[Link](https://www.naukri.com/code360/problems/allocate-books_1090540)| Pending | 
+- :  
+
+<!-- 
+lecture 15
+Questions Solved:
+Homework Questions: 
+- EKO SPOJ: https://www.spoj.com/problems/EKO/  
+- PRATA SPOJ: https://bit.ly/3ExHXt5  
+- Aggressive Cows: https://bit.ly/3dkuQ2B 
+- Painter’s Partition Problem: https://bit.ly/31v3Jiy 
+- EKO SPOJ: https://www.spoj.com/problems/EKO/ 
+- PRATA SPOJ: https://bit.ly/3ExHXt5  -->
 
 
 
 
 <!--
-|13. |Leetcode |Description |Easy|[Link]()| Status | 
+|13. |platform |Description |dificulty|[Link]()| Status | 
 -->
 
 <!-- 
