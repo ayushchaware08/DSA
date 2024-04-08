@@ -1,2 +1,4 @@
-
-int main(){
+);
+	for(int i:last){
+		cout<< i<<" ">>
+	}
