@@ -15,11 +15,12 @@ void printarray(int arr[], int size)
 
 int bubblesort(int arr[], int n)
 {
-	bool swaped = false;
+	bool swaped ;
 	// for 0->n-1
-	for (int i = 0; i < n; i++)
-	{   //precess till n-ith index
-		for (int j = 0; j < n - 1; j++)
+	for (int i = 0; i < n-1; i++) 
+	{ 	swaped = false;
+		// precess till n-ith index
+		for (int j = 0; j < n -i- 1; j++)
 		{
 			if (arr[j] < arr[j + 1])
 			{
@@ -29,7 +30,7 @@ int bubblesort(int arr[], int n)
 		}
 		if (swaped == false)
 		{
-			//allready sorted
+			// allready sorted
 			break;
 		}
 	}
@@ -41,4 +42,5 @@ int main()
 	int arr[10] = {10, 20, 90, 4, 87, 43, 54, 25, 18, 30};
 	int n = 10;
 	bubblesort(arr, n);
+	return 0;
 }

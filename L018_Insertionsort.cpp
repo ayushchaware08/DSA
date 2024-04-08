@@ -1,3 +1,5 @@
+// https://bit.ly/3EstWN7 
+
 #include<iostream>
 using namespace std;
 
@@ -16,15 +18,15 @@ int insertionsort1(int arr[],int n){
 		int j = i-1;
 		for(;j>=0 ;j--){
 
-			// Shift
+			// Shift to next index
 			if(arr[j]>temp){
 				arr[j+1]=arr[j];
 			}
-			else{ //stop
+			else{ //stop (i.e allredy sorted)
 				break;
 			}
 		}
-		arr[j+1]=temp;
+		arr[j+1]=temp;  // put our targeted ele to its disired position
 	}
 	for(int i = 0; i<n; i++){
 		cout<<arr[i]<<" ";

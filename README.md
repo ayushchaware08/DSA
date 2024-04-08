@@ -134,8 +134,9 @@ Lec 10 : Swap Alternate-->
 |18. |Leetcode |724. Find Pivot Indexion |Easy|[Link](https://leetcode.com/problems/find-pivot-index/description/)| Pending  | |
 |19. |Leetcode |Find pivot element first and |Easy|[Link](https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/1459909/find-pivot-element-first-and-apply-binary-search-on-left-and-right-subarrays-0logn-approach/) [Link](https://www.codingninjas.com/studio/problems/search-in-rotated-sorted-array_1082554)| Done |  |
 |20. |Leetcode |69. Sqrt() |Easy|[Link](https://leetcode.com/problems/sqrtx/description/)| Done | 
-|21. |Code360 |Book Allocation Problem |Easy|[Link](https://www.naukri.com/code360/problems/allocate-books_1090540)| Done | 
-<!-- |27. |platform |Description |dificulty|[Link]()| Status |  -->
+|21. |Code360 |Book Allocation Problem |Easy|[Link](https://www.naukri.com/code360/problems/allocate-books_1090540)| Done |
+|27. |Code360 |Bubble Sort |Easy|[Link](https://www.naukri.com/code360/problems/bubble-sort_980524)| Done | 
+|28. |Code360 |Insertion Sort |Easy|[Link](https://bit.ly/3EstWN7 )| Done | 
 
 
 <!-- Lecture 15
