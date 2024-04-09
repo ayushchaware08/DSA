@@ -40,9 +40,4 @@ int main(){
 	//sort
 	// introsort heap quick insertion sort BTS
 
-
-
-
-
-
 }
