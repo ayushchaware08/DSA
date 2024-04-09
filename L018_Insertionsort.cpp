@@ -27,13 +27,13 @@ int insertionsort1(int arr[],int n){
 			}
 		}
 		arr[j+1]=temp;  // put our targeted ele to its disired position
-	}
+}`
 	for(int i = 0; i<n; i++){
 		cout<<arr[i]<<" ";
 	}
 }
 int main(){
-	int arr[10] = {10, 20, 90, 4, 87, 43, 54, 25, 18, 30};
-	int n = 10;
+	int arr[3] = {10, 1, 7};
+	int n = 3;
 	insertionsort1(arr, n);
 }

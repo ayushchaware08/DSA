@@ -1,4 +1,2 @@
-);
-	for(int i:last){
-		cout<< i<<" ">>
-	}
+bcd = "abcd";
+	// reverse(abcd.begin(),abcd.end());

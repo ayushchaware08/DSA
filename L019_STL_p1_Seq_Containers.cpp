@@ -8,11 +8,14 @@
 // Standard Tempelate Library
 #include<array> //array
 #include<vector> // vector
+#include <deque> // Deque
+#include<list> //LIST
 using namespace std;
+
 int main()
 {
 	// ------------ ARRAY ---------------
-	cout<<"ARRAY"<<endl;
+	cout<<endl<<endl<<"ARRAY"<<endl;
 
 	// Basic array
 	int arr[5]= {2,3,6,4,5};
@@ -31,7 +34,7 @@ int main()
 	cout<<"last element: "<<a.back()<<endl;
 
 	// ------------- VECTOR ---------------
-	cout<<"VECTOR"<<endl<<endl;
+	cout<<endl<<endl<<"VECTOR"<<endl;
 
 
 	// vector var <size,initilize>
@@ -66,29 +69,90 @@ int main()
 
 	//size
 	cout<<"Size -> "<<v.size()<<endl; 
-	cout<<"Element at index 2"<<v.at(2)<<endl;
-
 	// size tell the no of element, capacity tell the spcae alloted to element
+
+	cout<<"Element at index 2: "<<v.at(2)<<endl;
 	cout<<"Front: "<<v.front()<<endl;
 	cout<<"Back: "<<v.back()<<endl;
 
 	// pop ele
-	cout<<"Before pop"<<endl;
+	cout<<"Before pop: ";
 	for(int i:v){
 		cout<<i<<" ";
 	}
 
 	v.pop_back();
 
-	cout<<"After pop"<<endl;
+	cout<<endl<<"After pop: ";
 	for(int i:v){
 		cout<<i<<" ";
 	}
 	
 	// clear {clears ele(size = 0) not space(capacity)}
 
+	//  --------------- Deque -------------
+	cout<<endl<<endl<<"DEQUE"<<endl;
 
+	deque<int>d;
+	d.push_back(3);
+	d.push_back(4);
+	d.push_front(2);
+	d.push_front(1);
 
+	for(int i:d){
+		cout<<i<<" ";
+	}cout<<endl;
+
+	// d.pop_front();
+	d.pop_back();
+	for(int i :d){
+		cout<<i<<" ";
+	}cout<<endl;
+
+	cout<<"Element at index 0: "<<d.at(0)<<endl;
+	cout<<"Front: "<<d.front()<<endl;
+	cout<<"Back: "<<d.back()<<endl;
+	cout<<"Empty or not: "<<d.empty()<<endl; //bool
+
+	cout<<"Size before Erase: "<<d.size()<<endl;
+	d.erase(d.begin(),d.begin()+1); //need to mention from where to where we have to erase (here we erase 1st ele)
+	cout<<"Size after Erase: "<<d.size()<<endl;
+
+	// -------------------- List -------------------
+	cout<<endl<<endl<<"LIST"<<endl;
+
+	list<int> n(5,100);
+	for(int i:n){
+		cout<<i<<" ";
+	}cout<<endl;
+
+	//copy above list
+	list<int> n1(n);
+	for(int i:n){
+		cout<<i<<" ";
+	}cout<<endl;
+
+	list<int> l;  //empty list
+	for(int i:l){
+		cout<<i<<" ";
+	}cout<<endl;
+
+	l.push_back(1);
+	l.push_front(2);
+	for(int i:l){
+		cout<<i<<" ";
+	}cout<<endl;
+
+	l.erase(l.begin());
+	cout<<"after earse: ";
+	for(int i:b){
+		cout<<i<<" ";
+	}cout<<endl;
+
+	// cout<<"Element at index 0: "<<l.at(1)<<endl;
+	cout<<"Front: "<<l.front()<<endl;
+	cout<<"Back: "<<l.back()<<endl;
+	cout<<"Empty or not: "<<l.empty()<<endl; //bool
 
 
 }
