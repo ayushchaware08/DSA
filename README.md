@@ -137,6 +137,10 @@ Lec 10 : Swap Alternate-->
 |21. |Code360 |Book Allocation Problem |Easy|[Link](https://www.naukri.com/code360/problems/allocate-books_1090540)| Done |
 |27. |Code360 |Bubble Sort |Easy|[Link](https://www.naukri.com/code360/problems/bubble-sort_980524)| Done | 
 |28. |Code360 |Insertion Sort |Easy|[Link](https://bit.ly/3EstWN7 )| Done | 
+|29. |Code360 |Reverse the Array |Easy|[Link](https://www.naukri.com/code360/problems/reverse-the-array_1262298)| Done | 
+|30. |Leetcode |88. Merge Sorted Array |Easy|[Link](https://leetcode.com/problems/merge-sorted-array/description/)| Pending | 
+|31. |Leetcode |283. Move Zeros |Easy|[Link](https://leetcode.com/problems/move-zeroes/description/)| Pending | 
+
 
 
 <!-- Lecture 15
