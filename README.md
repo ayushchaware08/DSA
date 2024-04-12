@@ -104,17 +104,22 @@ Lec 10 : Swap Alternate-->
 - Switch case
 - Break ; Continue; statements
 - Functions
-- Creating various Functions.
+- STL in C++
 - Leetcode problems
+
 ## Arrays
 ### Searching
 - Linear Search
 - Binary Search
 ### Sorting
 - Selection Sort
+- Bubble Sort
+- Insertion Sort
 
 
-### Question Praactice
+
+
+### Question Practice
 |Sr No.| Platform  | Question | Difficulty | Link | Status |
 |------- | ------------- | ----------| ----------| -------| ------|
 |1. |Leetcode | 231. Power of Two  | Easy | [link](https://leetcode.com/problems/power-of-two/) |Done| 
@@ -139,30 +144,33 @@ Lec 10 : Swap Alternate-->
 |28. |Code360 |Insertion Sort |Easy|[Link](https://bit.ly/3EstWN7 )| Done | 
 |29. |Code360 |Reverse the Array |Easy|[Link](https://www.naukri.com/code360/problems/reverse-the-array_1262298)| Done | 
 |30. |Leetcode |88. Merge Sorted Array |Easy|[Link](https://leetcode.com/problems/merge-sorted-array/description/)| Done | 
-|31. |Leetcode |283. Move Zeros |Easy|[Link](https://leetcode.com/problems/move-zeroes/description/)| Pending | 
-
+|31. |Leetcode |283. Move Zeros |Easy|[Link](https://leetcode.com/problems/move-zeroes/description/)| Done | 
+|32. |Leetcode |189. Rotate Array |Medium|[Link](https://leetcode.com/problems/rotate-array/description/)| Done | 
+|33. |Leetcode |1752. Check if rotated and sorted array |Easy|[Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)| Done | 
+|34. |Code360 |Add arrays |Easy|[Link](https://bit.ly/3DXfsDZ )| Done | 
+|35. |Leetcode |344. Reverse a String  |Easy|[Link](https://leetcode.com/problems/reverse-string/)| Status | 
+|36. |Code360 |Check if the String is Palindrome |Easy|[Link](https://www.naukri.com/code360/problems/check-if-the-string-is-a-palindrome_1062633)| Status | 
+|37. |Leetcode | 125. Valid Palindrome|Easy|[Link](https://leetcode.com/problems/valid-palindrome)| Status | 
+|38. |Leetcode |Reverse words in a String (VS Code)|Medium|[Link](https://leetcode.com/problems/reverse-words-in-a-string-ii/)| Status | 
+|39. |GFG |Maximum occurring character|Easy|[Link](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1)| Status | 
+|40. |Code360|Remove all occurrences of substring|Easy|[Link](https://www.naukri.com/code360/problems/replace-spaces_1172172)| Status | 
+|41.* |Code360|1910. Remove all occurrences of substring|Medium|[Link](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)| Status | 
+|42. |platform |Remove all adjacent duplicates|Medium|[Link]()| Status | 
+|43. |Leetcode |443. String Compression|Medium|[Link](https://leetcode.com/problems/string-compression/description/)| Status | 
+|44. |Leetcode |567. Permutation in Strings|Medium|[Link](https://leetcode.com/problems/permutation-in-string/description/)| Status | 
+|45. |Leetcode |1047. Remove adjacent Duplicates|Easy|[Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)| Status | 
 
 
 
 <!-- 
-lec 21
-- Rotate arrays:https://leetcode.com/problems/rotate-array/description/
-- Check if rotated and sorted array: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
-- Add arrays: https://bit.ly/3DXfsDZ 
-
-lec 22
+Lec 23
 Question Links:
-- Length of String
-- Reverse a String: https://leetcode.com/problems/reverse... 
-- Check Palindrome:https://bit.ly/3E55FvF 
-- Valid Palindrome : https://leetcode.com/problems/valid-p... 
-- Reverse words: https://leetcode.com/problems/reverse... 
-- Maximum occurring character: https://practice.geeksforgeeks.org/pr... 
-- Remove all occurrences of substring: https://bit.ly/3sfP71Q 
-- Remove all adjacent duplicates: https://leetcode.com/problems/remove-... 
-- String Compression: https://leetcode.com/problems/string-... 
-- Permutation in Strings: https://leetcode.com/problems/permuta...
-- Remove adjacent Duplicates: https://leetcode.com/problems/remove-...  -->
+- Wave Print: https://bit.ly/329Le3K
+- Spiral Print: https://leetcode.com/problems/spiral-...
+- Rotate a Matrix by 90 degrees: https://leetcode.com/problems/rotate-... 
+- Search in a 2D Matrix I LeetCode: https://leetcode.com/problems/search-... 
+- Search in a 2D Matrix II LeetCode: https://leetcode.com/problems/search-... 
+-->
 
 
 
