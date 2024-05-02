@@ -115,6 +115,7 @@ Lec 10 : Swap Alternate-->
 - Selection Sort
 - Bubble Sort
 - Insertion Sort
+- 
 
 
 
@@ -148,17 +149,23 @@ Lec 10 : Swap Alternate-->
 |32. |Leetcode |189. Rotate Array |Medium|[Link](https://leetcode.com/problems/rotate-array/description/)| Done | 
 |33. |Leetcode |1752. Check if rotated and sorted array |Easy|[Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)| Done | 
 |34. |Code360 |Add arrays |Easy|[Link](https://bit.ly/3DXfsDZ )| Done | 
-|35. |Leetcode |344. Reverse a String  |Easy|[Link](https://leetcode.com/problems/reverse-string/)| Status | 
-|36. |Code360 |Check if the String is Palindrome |Easy|[Link](https://www.naukri.com/code360/problems/check-if-the-string-is-a-palindrome_1062633)| Status | 
-|37. |Leetcode | 125. Valid Palindrome|Easy|[Link](https://leetcode.com/problems/valid-palindrome)| Status | 
-|38. |Leetcode |Reverse words in a String (VS Code)|Medium|[Link](https://leetcode.com/problems/reverse-words-in-a-string-ii/)| Status | 
+|35. |Leetcode |344. Reverse a String  |Easy|[Link](https://leetcode.com/problems/reverse-string/)| Done | 
+|36. |Code360 |Check if the String is Palindrome |Easy|[Link](https://www.naukri.com/code360/problems/check-if-the-string-is-a-palindrome_1062633)| Done | 
+|37. |Leetcode | 125. Valid Palindrome|Easy|[Link](https://leetcode.com/problems/valid-palindrome)| Done |
+|38. |Leetcode |186. Reverse Words in a String II (VS) |Medium|[Link](https://leetcode.com/problems/reverse-words-in-a-string-ii/)| Status | 
 |39. |GFG |Maximum occurring character|Easy|[Link](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1)| Status | 
+
+
+
+
+<!-- 
 |40. |Code360|Remove all occurrences of substring|Easy|[Link](https://www.naukri.com/code360/problems/replace-spaces_1172172)| Status | 
 |41.* |Code360|1910. Remove all occurrences of substring|Medium|[Link](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)| Status | 
 |42. |platform |Remove all adjacent duplicates|Medium|[Link]()| Status | 
 |43. |Leetcode |443. String Compression|Medium|[Link](https://leetcode.com/problems/string-compression/description/)| Status | 
 |44. |Leetcode |567. Permutation in Strings|Medium|[Link](https://leetcode.com/problems/permutation-in-string/description/)| Status | 
 |45. |Leetcode |1047. Remove adjacent Duplicates|Easy|[Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)| Status | 
+ -->
 
 
 
