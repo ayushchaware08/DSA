@@ -1,31 +1,79 @@
-// Find unique
-#include <iostream>
+// C++ program to demonstrate
+// protected access modifier
+#include <bits/stdc++.h>
 using namespace std;
-int unique(int arr[], int size)
+
+// base class
+class Parent
+{ 
+	// protected data members
+	protected:
+	int id_protected;
+	
+};
+
+// sub class or derived class from public base class
+class Child : public Parent
 {
-	int ans = 0;
-	for (int i = 0; i < size; i++)
+	public:
+	void setId(int id)
 	{
-		ans = ans ^ arr[i];
-	cout << ans << endl;
+		
+		// Child class is able to access the inherited 
+		// protected data members of base class
+		
+		id_protected = id;
+		
 	}
-}
-int main()
-{
-int arr[5] = {1,2,3,4,3};
-	int size = 5;
-	// unique(arr, size);
-	int ans = 0;
-	for (int i = 0; i < size; i++)
+	
+	void displayId()
 	{
-		ans = ans ^ arr[i];
+		cout << "id_protected is: " << id_protected << endl;
 	}
-		cout << ans << endl;
-	for(int i = 1; i < size ; i++){
-		ans = ans ^ i;
-	}
-	cout<<ans;
+};
+
+// main function
+int main() {
+	
+	Child obj1;
+	
+	// member function of the derived class can
+	// access the protected data members of the base class
+	
+	obj1.setId(81);
+	obj1.displayId();
+	return 0;
 }
+
+
+// // Find unique
+// #include <iostream>
+// using namespace std;
+// int unique(int arr[], int size)
+// {
+// 	int ans = 0;
+// 	for (int i = 0; i < size; i++)
+// 	{
+// 		ans = ans ^ arr[i];
+// 	cout << ans << endl;
+// 	}
+// }
+// int main()
+// {
+// int arr[5] = {1,2,3,4,3};
+// 	int size = 5;
+// 	// unique(arr, size);
+// 	int ans = 0;
+// 	for (int i = 0; i < size; i++)
+// 	{
+// 		ans = ans ^ arr[i];
+// 	}
+// 		cout << ans << endl;
+// 	for(int i = 1; i < size ; i++){
+// 		ans = ans ^ i;
+// 	}
+// 	cout<<ans;
+// }
 
 // // Sorting Algorithm - Selection Sort
 // #include<iostream>
