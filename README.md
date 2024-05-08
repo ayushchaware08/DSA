@@ -117,6 +117,17 @@ Lec 10 : Swap Alternate-->
 - Insertion Sort
 - 
 
+## OOPS
+Basic Concept in OOPS
+1. Class
+2. Objects
+3. Encapsulation
+4. Abstraction
+5. Polymorphism
+6. Inheritance
+7. Dynamic Binding
+8. Message Passing
+
 
 
 
@@ -204,3 +215,4 @@ Q15a Sort 0 1 2 [https://bit.ly/3DfQW0s] Meta Microsoft......
  -->
 
  Course FLow : [Here](https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD)
+ OOPS Roadmap: https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw
