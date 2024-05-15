@@ -1,5 +1,5 @@
 <h1> DSA using C++</h1>
-✅✅Here I am Documenting my whole Journey to learn DSA using C++ from Strach. I am following Love Babbar YouTube Playlist to learn DSA using C++.
+✅✅ Here I am Documenting my whole Journey to learn DSA using C++ from Strach. I am following Love Babbar YouTube Playlist to learn DSA using C++, Code with Harry also refering documentation by Geek for Geeks.
 Let's see How it Goes!
 
 <!-- 1️⃣ Day 1 : 14/12/2023 ✅
@@ -163,25 +163,19 @@ Basic Concept in OOPS
 |35. |Leetcode |344. Reverse a String  |Easy|[Link](https://leetcode.com/problems/reverse-string/)| Done | 
 |36. |Code360 |Check if the String is Palindrome |Easy|[Link](https://www.naukri.com/code360/problems/check-if-the-string-is-a-palindrome_1062633)| Done | 
 |37. |Leetcode | 125. Valid Palindrome|Easy|[Link](https://leetcode.com/problems/valid-palindrome)| Done |
-|38. |Leetcode |186. Reverse Words in a String II (VS) |Medium|[Link](https://leetcode.com/problems/reverse-words-in-a-string-ii/)| Status | 
-|39. |GFG |Maximum occurring character|Easy|[Link](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1)| Status | 
+|38. |Leetcode |186. Reverse Words in a String II (VS) |Medium|[Link](https://leetcode.com/problems/reverse-words-in-a-string-ii/)| Pending | 
+|39. |GFG |Maximum occurring character|Easy|[Link](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1)| Doubt | 
+|40. |Code360|Removek all occurrences of substring|Easy|[Link](https://www.naukri.com/code360/problems/replace-spaces_1172172)| Done | 
+|41.* |Leetcode|1910. Remove all occurrences of substring|Medium|[Link](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)| Status | 
+|42. |Leetcode |567. Permutation in Strings|Medium|[Link](https://leetcode.com/problems/permutation-in-string/description/)| Done | 
+|43. |Leetcode |1047. Remove all adjacent Duplicates|Medium|[Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)| Status | 
+|44. |Leetcode |443. String Compression|Medium|[Link](https://leetcode.com/problems/string-compression/description/)| Done | 
 
 
 
 
-<!-- 
-|40. |Code360|Remove all occurrences of substring|Easy|[Link](https://www.naukri.com/code360/problems/replace-spaces_1172172)| Status | 
-|41.* |Code360|1910. Remove all occurrences of substring|Medium|[Link](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)| Status | 
-|42. |platform |Remove all adjacent duplicates|Medium|[Link]()| Status | 
-|43. |Leetcode |443. String Compression|Medium|[Link](https://leetcode.com/problems/string-compression/description/)| Status | 
-|44. |Leetcode |567. Permutation in Strings|Medium|[Link](https://leetcode.com/problems/permutation-in-string/description/)| Status | 
-|45. |Leetcode |1047. Remove adjacent Duplicates|Easy|[Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)| Status | 
- -->
 
-
-
-<!-- 
-Lec 23
+<!-- Lec 23
 Question Links:
 - Wave Print: https://bit.ly/329Le3K
 - Spiral Print: https://leetcode.com/problems/spiral-...
@@ -214,5 +208,8 @@ Q15 Sort 0 1
 Q15a Sort 0 1 2 [https://bit.ly/3DfQW0s] Meta Microsoft......
  -->
 
- Course FLow : [Here](https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD)
- OOPS Roadmap: https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw
+### Links
+- [Course FLow](https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD)
+- [OOPS Roadmap](https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw)
+- [String Members](https://cplusplus.com/reference/string/string/)
+- [Code Links](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
