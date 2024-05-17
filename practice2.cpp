@@ -91,37 +91,38 @@
 // 	// 	cout<< i<<endl;
 // 	// }
 
-#include <iostream>
-using namespace std;
-int bs(int arr[], int size, int key)
-{
-	int start = 0, end = size - 1;
-	int mid = start + (end - start) / 2;
-	while (start <= end)
-	{
-		if (arr[mid] == key)
-		{
-			return mid;
-		}
-		if (arr[mid] > key)
-		{
-			end = mid - 1;
-		}
-		if (arr[mid] < key)
-		{
-			start = mid + 1;
-		}
-		mid = start + (end-start) / 2;
-	}
-	return -1;
-}
-int main()
-{
-	int arr[5] = {1, 3, 5, 7, 9};
-	int key = 5;
-	// cin>> key;
-	int index = bs(arr, 5, key);
-	cout << index+1<<" postion";
+// #include <iostream>
+// using namespace std;
+// int bs(int arr[], int size, int key)
+// {
+// 	int start = 0, end = size - 1;
+// 	int mid = start + (end - start) / 2;
+// 	while (start <= end)
+// 	{
+// 		if (arr[mid] == key)
+// 		{
+// 			return mid;
+// 		}
+// 		if (arr[mid] > key)
+// 		{
+// 			end = mid - 1;
+// 		}
+// 		if (arr[mid] < key)
+// 		{
+// 			start = mid + 1;
+// 		}
+// 		mid = start + (end-start) / 2;
+// 	}
+// 	return -1;
+// }
+// int main()
+// {
+// 	int arr[5] = {1, 3, 5, 7, 9};
+// 	int key = 5;
+// 	// cin>> key;
+// 	int index = bs(arr, 5, key);
+// 	cout << index+1<<" postion";
 
-	// return 0;
-}
+// 	// return 0;
+// }
+

@@ -170,6 +170,11 @@ Basic Concept in OOPS
 |42. |Leetcode |567. Permutation in Strings|Medium|[Link](https://leetcode.com/problems/permutation-in-string/description/)| Done | 
 |43. |Leetcode |1047. Remove all adjacent Duplicates|Medium|[Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)| Status | 
 |44. |Leetcode |443. String Compression|Medium|[Link](https://leetcode.com/problems/string-compression/description/)| Done | 
+|45. |Code 360 |Print Like A Wave |Easy|[Link](https://www.naukri.com/code360/problems/print-like-a-wave_893268)| Done | 
+|46. |Leetcode |54. Spiral Matrix |Medium|[Link](https://leetcode.com/problems/spiral-matrix/description/)| Done | 
+|47. |Leetcode |48. Rotate Image |Medium|[Link]https://leetcode.com/problems/rotate-image/description/()| Pending | 
+|48. |Leetcode |74. Search a 2D Matrix |Medium|[Link](https://leetcode.com/problems/search-a-2d-matrix/description/)| Done | 
+|49. |Leetcode |240. Search a 2D Matrix II |Medium|[Link](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)| Done | 
 
 
 
@@ -194,9 +199,7 @@ Question Links:
 |26. |platform |Description |dificulty|[Link]()| Status |  -->
 
 
-
 <!--
-|13. |platform |Description |dificulty|[Link]()| Status | 
 |13. |platform |Description |dificulty|[Link]()| Status | 
 -->
 
