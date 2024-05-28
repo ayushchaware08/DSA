@@ -1,4 +1,5 @@
 // to check n is Prime number or not
+// by BRUTE FORCE METHOD
 
 #include <iostream>
 using namespace std;

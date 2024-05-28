@@ -1,5 +1,5 @@
 <h1> DSA using C++</h1>
-✅✅ Here I am Documenting my whole Journey to learn DSA using C++ from Strach. I am following Love Babbar YouTube Playlist to learn DSA using C++, Code with Harry also refering documentation by Geek for Geeks.
+✅✅ Here I am Documenting my Journey to learn DSA using C++ from Strach. I am following Code Help (By Love Babbar) YouTube Playlist to learn DSA using C++, Also Reffering Take u Forward, Code with Harry and documentation by Geek for Geeks.
 Let's see How it Goes!
 
 <!-- 1️⃣ Day 1 : 14/12/2023 ✅
@@ -106,8 +106,13 @@ Lec 10 : Swap Alternate-->
 - Functions
 - STL in C++
 - Leetcode problems
+- Strings
+- Character Array
+
 
 ## Arrays
+- 1D Array
+- 2D Array
 ### Searching
 - Linear Search
 - Binary Search
@@ -172,9 +177,11 @@ Basic Concept in OOPS
 |44. |Leetcode |443. String Compression|Medium|[Link](https://leetcode.com/problems/string-compression/description/)| Done | 
 |45. |Code 360 |Print Like A Wave |Easy|[Link](https://www.naukri.com/code360/problems/print-like-a-wave_893268)| Done | 
 |46. |Leetcode |54. Spiral Matrix |Medium|[Link](https://leetcode.com/problems/spiral-matrix/description/)| Done | 
-|47. |Leetcode |48. Rotate Image |Medium|[Link]https://leetcode.com/problems/rotate-image/description/()| Pending | 
+|47. |Leetcode |48. Rotate Image |Medium|[Link](https://leetcode.com/problems/rotate-image/description/)| Pending | 
 |48. |Leetcode |74. Search a 2D Matrix |Medium|[Link](https://leetcode.com/problems/search-a-2d-matrix/description/)| Done | 
 |49. |Leetcode |240. Search a 2D Matrix II |Medium|[Link](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)| Done | 
+|50. |Leetcode |204. Count Primes |Medium|[Link](https://leetcode.com/problems/count-primes/description/)| Done | 
+|51. |Code 360  |Modular Exponentiation |Easy|[Link](https://www.naukri.com/code360/problems/modular-exponentiation_1082146)| Done | 
 
 
 
@@ -206,7 +213,6 @@ Question Links:
 <!-- 
 Q13 Triplet sum [https://bit.ly/3GbgVs3] Fipkart Meta Cisco...
 Q14 3sum https://bit.ly/3GbgVs3 
-
 Q15 Sort 0 1
 Q15a Sort 0 1 2 [https://bit.ly/3DfQW0s] Meta Microsoft......
  -->
