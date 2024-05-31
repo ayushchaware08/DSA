@@ -13,18 +13,20 @@ int main(){
 	// Initilization of pointer
 	int *p = &num;
 	cout<< "Value pointed by p is (*p): "<< *p <<endl;  //Value at address pointed by p
-	cout<< "Address of p is (p): "<< p <<endl;  // Address of p (i.e num )
-	cout<< "Address of p is (p): "<< &(*p) <<endl;  // Address of p (i.e num )
+	cout<< "Address of pointer p is &(*p): "<< &(*p) <<endl;  // Address of num 
+	cout<< "Address of p (&p): "<< &p <<endl;  // Address of p
+	cout<< "Address to which p is pointing (p): "<< p <<endl<<endl;  // Address of num
+	// *p -> Value, p-> address
 
 	double d = 4.3;
 	double *p2 = &d;
 	cout<<"Address (p2): "<< p2 << "  (&d): " << &d <<endl;
-	cout<<"Value (*p2): "<< *p2 << "  (d): " << d <<endl;
+	cout<<"Value (*p2): "<< *p2 << "  (d): " << d <<endl<<endl;
 
 	// Size of int Pointer
 	cout<< "Size: "<< sizeof(num)<<endl;  // Value
 	cout<< "Size: "<< sizeof(p)<<endl;  // add
-	cout<< "Size: "<< sizeof(*p)<<endl<<endl;  // Value  *****gives 4******** as 32 bit system
+	cout<< "Size: "<< sizeof(*p)<<endl<<endl;  // Value  *****gives 4******** as 32 bit system in 64bit->8
 
 	//--------------------
 	// Size of Double Pointer
@@ -36,13 +38,13 @@ int main(){
 	// pointer to int is created and pointing to some garbage value
 	// int *ptr = 0; //means null value
 	int *ptr;  //bad Practice
-	cout<<*ptr<<endl; // garbage
+	cout<<"garbage: "<<*ptr<<endl; // garbage
 
 	//-----------------------
 
 	int i = 5;
 	int *p3 = 0;
-	p3 = &i;
+	p3 = &i; //now p3 is not null
 	cout<<"address: "<<p3<<endl<<"Value: "<<*p3 <<endl;
 	int *q = &i;
 	cout<<"address: "<<q<<endl<<"Value: "<<*q <<endl<<endl;
@@ -54,7 +56,7 @@ int main(){
 	int a = num1;
 	cout<<"Num Before: " << num1 << endl;
 	a++; 
-	cout<<"Num After: " << num1 <<endl; // not any updation to num
+	cout<<"Num After: " << num1 <<endl; // not any updation to num (a updated)
 
 
 	int *p4 = &num1;
@@ -78,13 +80,14 @@ int main(){
 	cout<<"After t : "<< t <<endl;
 	 
 	// -----------------------------
+
 	int firstvalue = 5, secondvalue = 15;
     char thirdvalue = 'a';
     int * d1, * d2;
     char * d3;
-    d1 = & firstvalue; // d1 = address of firstvalue
-    d2 = & secondvalue; // d2 = address of secondvalue 
-    d3 = & thirdvalue; // d3 = address of thirdvalue
+    d1 = & firstvalue; 
+    d2 = & secondvalue;
+    d3 = & thirdvalue; 
     * d1 = 10; // value pointed to by d1 = 10
     cout << "firstvalue is " << firstvalue << endl;
     * d2 = * d1; // value pointed to by d2 = value pointed to by d1
@@ -94,12 +97,6 @@ int main(){
     cout << "firstvalue is " << firstvalue << endl;
     cout << "secondvalue is " << secondvalue << endl;
     cout << "thirdvalue is " << thirdvalue << endl;
-
-
-
-
-
-
 
 	return 0;
 }

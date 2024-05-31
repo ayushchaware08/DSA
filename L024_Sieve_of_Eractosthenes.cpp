@@ -1,3 +1,5 @@
+// it count the no of prime till n
+
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -29,7 +29,7 @@ int main(){
 	cout<< &p<<" "<<p2<<endl<<endl;
 
 
-	//uodate func
+	//update func
 	cout<<"before"<<i<<endl;
 	cout<<"before"<<p<<endl;
 	cout<<"before"<<p2<<endl;

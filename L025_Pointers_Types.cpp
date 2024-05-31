@@ -6,6 +6,7 @@ int *func(){
 	return &x;
 }
 int main(){
+	/*cam
 	// ---------Null ptr---------
 	int *i = NULL;
 	int *i =0;
@@ -30,7 +31,9 @@ int main(){
 	ptr = &a; //not wild now
 
 	// --------Dangling ptr----------
-	
+	// ptr point to many
+	*/
+
 	// (a) function call
 	// let any func() is called outside the main
 	int *p2 = func(); //pothing to something which is not valid anymore
