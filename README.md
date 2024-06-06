@@ -185,8 +185,10 @@ Basic Concept in OOPS
 |52. |Leetcode |509. Fibonacci Number |Easy|[Link](https://leetcode.com/problems/fibonacci-number/description/)| Done | 
 |53.* |Code 360 | Count Ways To Reach The N-th Stairs |Medium|[Link](https://www.naukri.com/code360/problems/count-ways-to-reach-nth-stairs_798650)| Done | 
 |54. |Leetcode |70. Climbing Stairs  |Easy|[Link](https://leetcode.com/problems/climbing-stairs/description/)| Status | 
+|55. |Code 360 |Binary Search (recursion)  |Easy|[Link](https://www.naukri.com/code360/problems/binary-search_972)| Done | 
 
 <!--
+|13. |platform |Description  |dificulty|[Link]()| Status | 
 |13. |platform |Description  |dificulty|[Link]()| Status | 
 -->
 
