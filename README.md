@@ -182,7 +182,13 @@ Basic Concept in OOPS
 |49. |Leetcode |240. Search a 2D Matrix II |Medium|[Link](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)| Done | 
 |50. |Leetcode |204. Count Primes |Medium|[Link](https://leetcode.com/problems/count-primes/description/)| Done | 
 |51. |Code 360  |Modular Exponentiation |Easy|[Link](https://www.naukri.com/code360/problems/modular-exponentiation_1082146)| Done | 
+|52. |Leetcode |509. Fibonacci Number |Easy|[Link](https://leetcode.com/problems/fibonacci-number/description/)| Done | 
+|53.* |Code 360 | Count Ways To Reach The N-th Stairs |Medium|[Link](https://www.naukri.com/code360/problems/count-ways-to-reach-nth-stairs_798650)| Done | 
+|54. |Leetcode |70. Climbing Stairs  |Easy|[Link](https://leetcode.com/problems/climbing-stairs/description/)| Status | 
 
+<!--
+|13. |platform |Description  |dificulty|[Link]()| Status | 
+-->
 
 
 
@@ -206,9 +212,6 @@ Question Links:
 |26. |platform |Description |dificulty|[Link]()| Status |  -->
 
 
-<!--
-|13. |platform |Description |dificulty|[Link]()| Status | 
--->
 
 <!-- 
 Q13 Triplet sum [https://bit.ly/3GbgVs3] Fipkart Meta Cisco...
