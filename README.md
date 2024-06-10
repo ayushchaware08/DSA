@@ -120,7 +120,8 @@ Lec 10 : Swap Alternate-->
 - Selection Sort
 - Bubble Sort
 - Insertion Sort
-- 
+- QuickSort
+- Merge Sort
 
 ## OOPS
 Basic Concept in OOPS
@@ -188,9 +189,13 @@ Basic Concept in OOPS
 |55. |Code 360 |Binary Search (recursion)  |Easy|[Link](https://www.naukri.com/code360/problems/binary-search_972)| Done | 
 |56. |Leetcode |78. Subsets  |Medium|[Link](https://leetcode.com/problems/subsets/description/)| Done | 
 |57. |Code 360 | Subsequences of String  |dificulty|[Link](https://www.naukri.com/code360/problems/subsequences-of-string_985087)| Done | 
+|58.* |Leetcode |17. Letter Combinations of a Phone Number  |Medium|[Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| Done |
+
 
 <!--
-|13. |platform |Description  |dificulty|[Link]()| Status | 
+|13. |platform |Description  |dificulty|[Link]()| Status |  
+|13. |platform |Description  |dificulty|[Link]()| Status |  
+|13. |platform |Description  |dificulty|[Link]()| Status |  
 |13. |platform |Description  |dificulty|[Link]()| Status | 
 -->
 
