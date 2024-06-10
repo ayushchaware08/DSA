@@ -186,6 +186,8 @@ Basic Concept in OOPS
 |53.* |Code 360 | Count Ways To Reach The N-th Stairs |Medium|[Link](https://www.naukri.com/code360/problems/count-ways-to-reach-nth-stairs_798650)| Done | 
 |54. |Leetcode |70. Climbing Stairs  |Easy|[Link](https://leetcode.com/problems/climbing-stairs/description/)| Status | 
 |55. |Code 360 |Binary Search (recursion)  |Easy|[Link](https://www.naukri.com/code360/problems/binary-search_972)| Done | 
+|56. |Leetcode |78. Subsets  |Medium|[Link](https://leetcode.com/problems/subsets/description/)| Done | 
+|57. |Code 360 | Subsequences of String  |dificulty|[Link](https://www.naukri.com/code360/problems/subsequences-of-string_985087)| Done | 
 
 <!--
 |13. |platform |Description  |dificulty|[Link]()| Status | 
