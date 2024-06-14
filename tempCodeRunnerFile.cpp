@@ -1,1 +1,2 @@
-	cout<<"value at 0th index: "<<*arr<<endl;
+ n << endl;
+	counti
