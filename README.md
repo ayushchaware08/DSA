@@ -120,7 +120,8 @@ Lec 10 : Swap Alternate-->
 - Selection Sort
 - Bubble Sort
 - Insertion Sort
-- 
+- QuickSort
+- Merge Sort
 
 ## OOPS
 Basic Concept in OOPS
@@ -185,8 +186,16 @@ Basic Concept in OOPS
 |52. |Leetcode |509. Fibonacci Number |Easy|[Link](https://leetcode.com/problems/fibonacci-number/description/)| Done | 
 |53.* |Code 360 | Count Ways To Reach The N-th Stairs |Medium|[Link](https://www.naukri.com/code360/problems/count-ways-to-reach-nth-stairs_798650)| Done | 
 |54. |Leetcode |70. Climbing Stairs  |Easy|[Link](https://leetcode.com/problems/climbing-stairs/description/)| Status | 
+|55. |Code 360 |Binary Search (recursion)  |Easy|[Link](https://www.naukri.com/code360/problems/binary-search_972)| Done | 
+|56. |Leetcode |78. Subsets  |Medium|[Link](https://leetcode.com/problems/subsets/description/)| Done | 
+|57. |Code 360 | Subsequences of String  |dificulty|[Link](https://www.naukri.com/code360/problems/subsequences-of-string_985087)| Done | 
+|58.* |Leetcode |17. Letter Combinations of a Phone Number  |Medium|[Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| Done |
+
 
 <!--
+|13. |platform |Description  |dificulty|[Link]()| Status |  
+|13. |platform |Description  |dificulty|[Link]()| Status |  
+|13. |platform |Description  |dificulty|[Link]()| Status |  
 |13. |platform |Description  |dificulty|[Link]()| Status | 
 -->
 
@@ -225,3 +234,4 @@ Q15a Sort 0 1 2 [https://bit.ly/3DfQW0s] Meta Microsoft......
 - [OOPS Roadmap](https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw)
 - [String Members](https://cplusplus.com/reference/string/string/)
 - [Code Links](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+- [Leetcode Top 150](https://leetcode.com/studyplan/top-interview-150/)
