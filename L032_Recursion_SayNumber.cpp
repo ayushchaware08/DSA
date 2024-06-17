@@ -1,3 +1,6 @@
+// i/p: 412
+// o/p: four one two
+
 #include<iostream>
 using namespace std;
 
@@ -21,7 +24,10 @@ void saynumber(int n){
 }
 
 int main(){
-	int n = 412;
+	int n ;
+	cout<< "Enter the Number: ";
+	cin>> n ;
+
 	saynumber(n);
 
 
