@@ -185,6 +185,11 @@ Basic Concept in OOPS
 |52. |Leetcode |509. Fibonacci Number |Easy|[Link](https://leetcode.com/problems/fibonacci-number/description/)| Done | 
 |53.* |Code 360 | Count Ways To Reach The N-th Stairs |Medium|[Link](https://www.naukri.com/code360/problems/count-ways-to-reach-nth-stairs_798650)| Done | 
 |54. |Leetcode |70. Climbing Stairs  |Easy|[Link](https://leetcode.com/problems/climbing-stairs/description/)| Status | 
+|55. |Code 360 |Binary Search (recursion)  |Easy|[Link](https://www.naukri.com/code360/problems/binary-search_972)| Done | 
+|56. |Leetcode |78. Subsets  |Medium|[Link](https://leetcode.com/problems/subsets/description/)| Done | 
+|57. |Code 360 | Subsequences of String  |dificulty|[Link](https://www.naukri.com/code360/problems/subsequences-of-string_985087)| Done | 
+|58.* |Leetcode |17. Letter Combinations of a Phone Number  |Medium|[Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| Done |
+|59. |Leetcode |46. Permutation  |Medium|[Link](https://leetcode.com/problems/permutations/description/)| Done |  
 
 <!--
 |13. |platform |Description  |dificulty|[Link]()| Status | 
@@ -202,6 +207,7 @@ Question Links:
 - Search in a 2D Matrix II LeetCode: https://leetcode.com/problems/search-... 
 -->
 
+How do I update my local repository from a remote branch?
 
 
 <!-- Lecture 15
