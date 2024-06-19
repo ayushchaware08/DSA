@@ -1,2 +1,1 @@
- n << endl;
-	counti
+size

@@ -191,9 +191,8 @@ Basic Concept in OOPS
 |57. |Code 360 | Subsequences of String  |dificulty|[Link](https://www.naukri.com/code360/problems/subsequences-of-string_985087)| Done | 
 |58.* |Leetcode |17. Letter Combinations of a Phone Number  |Medium|[Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| Done |
 |59. |Leetcode |46. Permutation (int)  |Medium|[Link](https://leetcode.com/problems/permutations/description/)| Done |  
-|60. |Leetcode |46. Permutation (str) |Medium|[Link](https://www.naukri.com/code360/problems/permutations-of-a-string_985254)| Done |  
-
-
+|60. |CodeStudio |Permutation (str) |Medium|[Link](https://www.naukri.com/code360/problems/permutations-of-a-string_985254)| Done |  
+|61.* |GFG |Rat in a Maze Problem - I|Medium|[Link](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)| Done |  
 
 
 <!--
@@ -213,9 +212,6 @@ Question Links:
 - Search in a 2D Matrix I LeetCode: https://leetcode.com/problems/search-... 
 - Search in a 2D Matrix II LeetCode: https://leetcode.com/problems/search-... 
 -->
-
-How do I update my local repository from a remote branch?
-
 
 <!-- Lecture 15
 |22. |platform |EKO SPOJ |dificulty|[Link](https://www.spoj.com/problems/EKO/)| Pending | 
