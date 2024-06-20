@@ -131,7 +131,7 @@ int main()
 }
 
 
-// i/p
+// i/	`p
 //  test case(n) : 2
 //  no of rows and col : 4
 //  input the matrix: 1 0 0 0

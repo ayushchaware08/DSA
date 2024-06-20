@@ -21,7 +21,7 @@ bool issorted(int *arr, int size){
 }
 
 int main(){
-	int arr[5] = {2,8,5,6,7};
+	int arr[5] = {2,5,6,7 ,8};
 	int size = 5;
 	bool ans = issorted(arr, size);
 

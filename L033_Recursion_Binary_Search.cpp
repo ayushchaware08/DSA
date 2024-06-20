@@ -14,10 +14,11 @@ void print(int arr[], int s, int e){
 
 bool binarysearch(int *arr, int s, int e, int k){
 	// check each case
-	print(arr,s,e);
+	// print(arr,s,e);
 
 
 	// base case
+
 	int mid = s + (e-s)/2;
 	// ele found
 	if(arr[mid]==k)
@@ -27,7 +28,7 @@ bool binarysearch(int *arr, int s, int e, int k){
 		return false;
 
 	//check value of mid
-	cout<<"mid: " << arr[mid]<<endl;
+	// cout<<"mid: " << arr[mid]<<endl;
 
 	if(arr[mid]<k){
 		return binarysearch(arr, mid+1, e, k);
@@ -41,7 +42,7 @@ bool binarysearch(int *arr, int s, int e, int k){
 int main(){
 	int arr[6] = {2,4, 6, 10, 14, 16};
 	int size = 6;
-	int key = 1;
+	int key = 14;
 
 	int ans = binarysearch(arr,0,size,key);
 
